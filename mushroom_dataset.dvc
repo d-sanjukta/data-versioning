@@ -1,0 +1,6 @@
+outs:
+- md5: bb8f76258b9d155eef0e97320c69aa21.dir
+  size: 2415984
+  nfiles: 12
+  hash: md5
+  path: mushroom_dataset

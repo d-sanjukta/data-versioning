@@ -1,0 +1,4 @@
+[core]
+    remote = mushroom_dataset
+['remote "mushroom_dataset"']
+    url = gs://ai5-mushroom-app-data/dvc_store
